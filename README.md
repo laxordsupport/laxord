@@ -1,7 +1,21 @@
-# Laxord 
+# Laxord Chat
 
 **Laxord**, modern ve yenilikçi bir **mesajlaşma ve topluluk platformudur**.  
-Kullanıcıların sunucular oluşturabileceği, arkadaş ekleyebileceği ve kanallar aracılığıyla iletişim kurabileceği Bir Mesajlaşma Sistemidir.  
+Kullanıcıların sunucular oluşturabileceği, arkadaş ekleyebileceği ve kanallar aracılığıyla iletişim kurabileceği, Discord benzeri bir sistemdir.  
+
+<p align="center">
+  <a href="https://laxordsupport.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/%20Web%20Sitemiz-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://laxord.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hemen%20Başla-000000?style=for-the-badge&logo=messenger&logoColor=white" alt="Hemen Başla">
+  </a>
+  <a href="https://instagram.com/laxordcom" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
 
 ## ✨ Özellikler
 
@@ -17,16 +31,23 @@ Kullanıcıların sunucular oluşturabileceği, arkadaş ekleyebileceği ve kana
 - 🔒 Rol ve yetki yönetimi  
 - 📱 Mobil uyumlu arayüz  
 
+---
+
 ## 🛠️ Teknolojiler
 
 - **HTML5, CSS3, JavaScript (ES6+)**  
 - **Node.js**  
 - **Socket.io** (gerçek zamanlı sohbet)  
 
+---
+
 ## 🌍 Hedefimiz
 
 Laxord, tamamen yerli bir girişim olarak **kullanıcılarına özgür, güvenli ve modern bir iletişim deneyimi** sunmayı hedefler.  
 Amacımız, bireylerin ve toplulukların kolayca iletişim kurabileceği, güvenilir ve kullanıcı dostu bir ortam yaratmaktır.  
+
+---
+
 
 ## 📜 Lisans
 
